@@ -39,7 +39,7 @@ These instructions will help you get started with using and contributing to the 
 3. Run the script to analyze the log data:
 
    ```bash
-   python analyze_logs.py
+   python temp.py
    ```
 
 4. The script will output the analysis results, including any identified sensitive information.
